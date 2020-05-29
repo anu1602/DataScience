@@ -4,3 +4,4 @@ Welcome to Data-Science
 
 NumPy
 Pandas
+SciPy
