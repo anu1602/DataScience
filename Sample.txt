@@ -6,5 +6,7 @@ NumPy
 Pandas
 SciPy
 
+Scikit learn
+NLP
 
 Thank you :)
